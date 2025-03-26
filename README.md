@@ -10,5 +10,5 @@ pnpm build
 
 Publish the local build to github pages:
 ```bash
-pnpm publish
+pnpm ghp
 ```
