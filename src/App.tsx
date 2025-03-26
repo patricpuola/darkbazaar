@@ -96,6 +96,7 @@ const LinkButton = styled.button<{ $color?: string }>`
   font-size: 1.1rem;
   font-weight: bold;
   cursor: pointer;
+  color: black;
 
   & > svg {
     font-size: 1.5rem;
